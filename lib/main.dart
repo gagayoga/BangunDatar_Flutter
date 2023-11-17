@@ -1,4 +1,4 @@
-import 'package:bangundatar_rplb/package/home_page.dart';
+import 'package:bangundatar_rplb/page/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
